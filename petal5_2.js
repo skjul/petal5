@@ -9,42 +9,6 @@ angleMode(DEGREES);
 
 }
 
- // function mousePressed(){
- //   face.clicked();
- // }
-
-// var hues = [color('#CDEBF9'), color('#939EF0'), color('#9AC7F0'), color('#4EF31E'), color('#e5e6ec'), color('#12D98C'), color('#FA5DD0'), color('#94FBD4'), color('#EBFFA6'), color('#C3F765'), color('#0A28E1')];
- 
-// var hue = hues [int(random(0,hues.length))]
-
-// translate (200, 200);
-// noStroke();
-// fill(hues[int(random(0, hues.length))]);
-// ellipse(0,0,140);
-
-
-   
-//  // big smile 
-//   push();
-//   rotate (-angle);
-//   push();
-//   noStroke();
-//   fill(0);
-//   ellipse(-25,-20,6);
-//   fill(0);
-//   ellipse(25,-20,6);
-//   noFill();
-//   stroke(0);
-//   strokeWeight(2);
-//   arc(0, 10, 50, 50, 0, 180)
-//    pop();
-  
-//    pop();
-   
-//    // big smile end
-  
-
-  
  function draw() {
  
   background (255);
@@ -412,18 +376,6 @@ pop();
     
 
 // face
-   
-//    function mousePressed(){
-
-
-// var hues = [color('#CDEBF9'), color('#939EF0'), color('#9AC7F0'), color('#4EF31E'), color('#e5e6ec'), color('#12D98C'), color('#FA5DD0'), color('#94FBD4'), color('#EBFFA6'), color('#C3F765'), color('#0A28E1')];
- 
-// var hue = hues [int(random(0,hues.length))]
-
-// translate (200, 200);
-// noStroke();
-// fill(hues[int(random(0, hues.length))]);
-// ellipse(0,0,140);
 
    // //   // big blu
    push();
@@ -472,11 +424,7 @@ pop();
    
 //    // big smile end
   
-   
-   // clicked() {
-   // let d = dist(mouseX, mouseY, 200, 200);
-   // if (d < 70) {
-   //   console.log("clicked on face");
+  
      
 
 }
